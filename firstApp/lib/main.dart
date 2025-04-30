@@ -174,7 +174,4 @@ class BigCard extends StatelessWidget {
       ),
     );
   }
- remferp
- erferfe
- erferf 
-
+}
